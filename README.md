@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>I Love You Oside</title>
+    <title>Crazy in Love with You, Lin 💖💋💘</title>
     <style>
         body {
             font-family: 'Georgia', serif;
@@ -52,7 +52,7 @@
             border: 1px solid #ff9999;
         }
         h2 {
-            font-size: 2em;
+            font-size: 2.5em;
             color: #ff4d4d;
             text-align: center;
             margin-bottom: 20px;
@@ -76,7 +76,7 @@
             margin: 0;
         }
         marquee {
-            font-size: 1.5em;
+            font-size: 2em;
             color: #ff4d4d;
             background-color: #fff;
             padding: 10px 0;
@@ -118,7 +118,7 @@
         }
 
         .love-letter {
-            font-size: 1.3em;
+            font-size: 1.4em;
             line-height: 1.8;
             color: #6d4b88;
             text-align: center;
@@ -153,7 +153,7 @@
         .quiz-section h2 {
             color: #e60000;
             text-align: center;
-            font-size: 2em;
+            font-size: 2.5em;
         }
 
         .quiz-section label {
@@ -184,60 +184,57 @@
 </head>
 <body>
     <header>
-        <h1>I Love You Oside</h1>
+        <h1>Crazy in Love with You, Lin 💖💋💘</h1>
     </header>
-    <marquee>Yours truly, Monteli Blessen</marquee>
+    <marquee>💘💘💘You’re my everything, Lin! 😘 You make my heart race and my world go crazy! 💖💖💖</marquee>
     <nav>
-        <a href="#about">About</a>
+        <a href="#about">About Us</a>
         <a href="#contact">Contact</a>
         <a href="#letter">Love Letter</a>
         <a href="#quiz">Love Quiz</a>
     </nav>
     <section id="about">
-        <h2>About Us</h2>
-        <p>In a relationship for 1 month and forever in love. This bond is made to last, and every day is a celebration of our love.</p>
+        <h2>About Us: The Ultimate Love Story 💘</h2>
+        <p>Lin, from the moment I laid eyes on you, I knew there was no going back. 😘 You stole my heart without even trying, and every second with you just makes my love grow stronger. You’re more than a dream come true, you’re the one I can’t stop thinking about, day and night! 💖 I’m falling deeper every day, and let’s be real—my world has never been this exciting. 💋✨</p>
     </section>
     <section id="letter">
-        <h2>Love Letter</h2>
+        <h2>Your Love Letter 😘</h2>
         <p class="love-letter">
-            My beloved soulmate Oside,<br>
-            Every moment apart feels like an eternity, and every thought of you fills my heart with warmth. 
-            You are the light in my life, the beat in my heart, and the reason I smile every single day. 
-            I promise to cherish you forever and make every day we share a beautiful memory.<br>
-            Yours always,<br>
-            Monteli
+            My Dearest Lin, 💖<br>
+            Since we met, my heart beats only for you. 💘 You're the reason I smile like a fool, the reason I can't wait to hold you close every day. 😘 I’m hooked, and there's no turning back now. 💋 I love you more than words could ever say. Every moment with you is magic. 💫 You're my forever, and I can't wait to spend every second loving you. 😍💘<br><br>
+            Yours forever, <br>
+            RK9 💖
         </p>
         <div class="romantic-images">
-            <img src="https://www.rd.com/wp-content/uploads/2021/01/GettyImages-912379960.jpg" alt="Beautiful bouquet of flowers">
-            <img src="https://cdn.pixabay.com/photo/2017/02/01/22/02/valentines-day-2035265_1280.jpg" alt="Romantic heart and roses">
+            <img src="https://www.rd.com/wp-content/uploads/2021/01/GettyImages-912379960.jpg" alt="Bouquet of flowers">
+            <img src="https://cdn.pixabay.com/photo/2017/02/01/22/02/valentines-day-2035265_1280.jpg" alt="Heart and roses">
         </div>
     </section>
     <section id="quiz" class="quiz-section">
-        <h2>How much do you love me?</h2>
+        <h2>How Much Do You Love Me, Lin? 💋</h2>
         <form>
             <label for="a_lot">
                 <input type="radio" id="a_lot" name="love" value="a_lot">
-                A lot
+                A LOT 😘💘
             </label>
             <label for="more_than_words">
                 <input type="radio" id="more_than_words" name="love" value="more_than_words">
-                More than words can say
+                More than words can express 😍
             </label>
             <label for="infinite">
                 <input type="radio" id="infinite" name="love" value="infinite">
-                Infinitely
+                Infinite love, forever and ever 💖💘
             </label><br><br>
-            <button type="submit">Submit</button>
+            <button type="button" onclick="alert('I knew it! 😘 You’re totally head over heels for me... Don’t worry, I’m just as crazy about you 💖💋. Let’s keep falling for each other forever!');">Submit Your Love</button>
         </form>
     </section>
     <section id="contact">
-        <h2>Contact</h2>
-        <p><strong>Phone:</strong> 0797768149</p>
-        <p><strong>Instagram:</strong> dreamy._meiser._</p>
-        <p><strong>Facebook:</strong> Monteli Blessen</p>
+        <h2>Contact Me, Lin 💌</h2>
+        <p><strong>Phone:</strong> 254110431462 😘 Call me anytime, love! 💖</p>
+        <p><strong>Instagram:</strong> rk9 💖 Slide into my DMs anytime, darling 😘</p>
     </section>
     <footer>
-        <p>Forever Yours, Monteli Blessen</p>
+        <p>Forever Yours, RK9 💖💋</p>
     </footer>
     <div class="starry-night"></div>
     
